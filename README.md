@@ -108,6 +108,10 @@ Thankyou for using  VFSS.
 - **Persistence:** Host file-system I/O (`open`/`write`/`close`) for the `Backup/` directory
 - **Platform:** Linux-first, with a Windows fallback for `clear`
 
+## Demo
+
+https://github.com/user-attachments/assets/91592287-6edf-45df-9803-af216baa8b57
+
 ## Known Limitations
 
 - Fixed capacity: only `MAXINODE` (5) files and `MAXOPENFILES` (5) open descriptors at a time
